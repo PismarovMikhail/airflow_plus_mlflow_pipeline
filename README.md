@@ -10,20 +10,20 @@
 
 ### Описание проекта
 
-:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/tree/main/README.md#Оглавление)
 
 ### Какой кейс решаем
 
-:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/tree/main/README.md#Оглавление)
 
 ### Краткая информация о данных
 
-:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/tree/main/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
-:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/tree/main/README.md#Оглавление)
 
 ### Результат
 
-:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PismarovMikhail/airflow_plus_mlflow_pipeline/tree/main/README.md#Оглавление)
